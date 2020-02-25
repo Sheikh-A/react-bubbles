@@ -20,6 +20,35 @@ body,
   }
 }
 
+.login {
+  width: 50%;
+  margin: 10% auto;
+  color: #ad2de7;
+}
+
+.forms {
+  border: 10px double #ad2de7;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 8px;
+  background: #dd99ba;
+}
+
+.forms input {
+  width: 90%;
+  margin: 1% auto;
+  border-radius: 5px;
+}
+
+.forms button {
+  width: 50%;
+  margin: 1% auto;
+  border-radius: 5px;
+  background: #ad2de7;
+  color: #f3e8ef;
+  font-size: 20px;
+}
+
 .spacer {
   height: 100%;
 }
